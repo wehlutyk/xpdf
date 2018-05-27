@@ -1,0 +1,6 @@
+[package]
+name = "xpdf"
+version = "0.1.0"
+authors = ["Sébastien Lerique <sl@mehho.net>"]
+
+[dependencies]

@@ -1,0 +1,3 @@
+[submodule "xpdf-sys/xpdf-4.00"]
+	path = xpdf-sys/xpdf-4.00
+	url = https://github.com/wehlutyk/xpdf-4.00.git
